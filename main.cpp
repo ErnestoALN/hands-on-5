@@ -1,9 +1,3 @@
-/*
-Autor: Ernesto Alonso Flores Nuño
-Fecha: ultima actualización: 12/10/2021
-profesor: José Antonio Aviña Méndez
-Programa: Hands-on 4
-*/
 
 #include <iostream>
 #include <vector>
